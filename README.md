@@ -9,7 +9,7 @@ I am an amazing Software Engineer and web developer with over 4 years of experie
 ## Find me around the web 🌎:
 🐥 __[Twitter](https://twitter.com/iamdevuche)__ | 👨‍💼 __[LinkedIn](https://www.linkedin.com/in/christian-nwachukwu-3847b6131/ )__
 
-![Minion](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Black_Cartoon_Male_Using_A_Desktop_Computer_At_Work.svg/560px-Black_Cartoon_Male_Using_A_Desktop_Computer_At_Work.svg.png) | Hello
+![Minion](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Black_Cartoon_Male_Using_A_Desktop_Computer_At_Work.svg/560px-Black_Cartoon_Male_Using_A_Desktop_Computer_At_Work.svg.png)
 
 
 <!--
