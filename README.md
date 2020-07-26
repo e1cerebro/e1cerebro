@@ -7,7 +7,7 @@ I am an amazing Software Engineer and web developer with over 4 years of experie
 
 
 ## Find me around the web 🌎:
-🐥 __[Twitter](https://twitter.com/iamdevuche)__ | 👨‍💼 __[LinkedIn](https://www.linkedin.com/in/christian-nwachukwu-3847b6131/ )__ | 📧 __[nwachukwu16@gmail.com](mailto:nwachukwu16@gmail.com)__ | 📞 __[+1(226) 977-7670](tel:2269777670)__ 
+🐥 __[Twitter](https://twitter.com/iamdevuche)__ | 👨‍💼 __[LinkedIn](https://www.linkedin.com/in/christian-nwachukwu-3847b6131/ )__ | 📧 __[nwachukwu16@gmail.com](mailto:nwachukwu16@gmail.com)__
 
 ![Minion](https://github.com/e1cerebro/e1cerebro/blob/master/elcerebro.png)
 
