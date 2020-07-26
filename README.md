@@ -1,9 +1,7 @@
 # Hi, I'm Chris 💻
 ___
 
-An amazing Software Engineer and web developer with over 4 years of experience and track record in web applications development, integration and service delivery. Over the past 2 years in my current company, with my technical expertise in both the backend and frontend, I have increased revenue sales by delivering quality and robust products with an awesome user experience that always keep them coming back to us. I excel at team and individual projects as my achievements so far is as a result of being a great team player and also solely taking ownership of projects as excellence is my driving force.
-
-
+> I am an amazing Software Engineer and web developer with over 4 years of experience and track record in web applications development, integration and service delivery. Over the past 2 years in my current company, with my technical expertise in both the backend and frontend, I have increased revenue sales by delivering quality and robust products with an awesome user experience that always keep them coming back to us. I excel at team and individual projects as my achievements so far is as a result of being a great team player and also solely taking ownership of projects as excellence is my driving force.
 <!--
 **e1cerebro/e1cerebro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
