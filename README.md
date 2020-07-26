@@ -3,6 +3,8 @@ I am an amazing Software Engineer and web developer with over 4 years of experie
 
 ###### 👨‍💻Building: __[Yuchat Messenger](https://github.com/e1cerebro/yuchat-frontend)__ , __[Mussey online music previewer](http://mussey.herokuapp.com/)__
 ###### 🧠Learning: __[Tailwind](https://tailwindcss.com/)__   and __[TypeScript](https://www.typescriptlang.org/)__ 
+###### 💖Loving: __[NodeJs](https://tailwindcss.com/)__   and __[ReactJs](https://www.typescriptlang.org/)__ 
+
 
 ## Find me around the web 🌎:
 🐥 __[Twitter](https://twitter.com/iamdevuche)__ | 👨‍💼 __[LinkedIn](https://www.linkedin.com/in/christian-nwachukwu-3847b6131/ )__
